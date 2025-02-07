@@ -43,9 +43,16 @@ A predictive analytics model for heart disease detection using **machine learnin
   <img src="https://github-readme-stats.vercel.app/api?username=hoorain17&show_icons=true&theme=radical" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoorain17&theme=radical" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoorain17&layout=compact&theme=radical" height="150px"/>
-</p>
----
 
+</p>
+
+### 🏆 **GitHub Trophies**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hoorain17&theme=radical&no-bg=true&no-frame=true)  
+
+### 👀 **Profile Views Counter**  
+![Profile Views](https://komarev.com/ghpvc/?username=hoorain17&color=blue)
+
+---
 ## 🌍 Connect with Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/hoorainmahtab/) | 📧 Email: nasreen888811@gmail.com  
