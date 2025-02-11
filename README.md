@@ -2,14 +2,13 @@
 
 ## 🚀 About Me
 
-I'm a **Data Scientist, Web Developer, and Performance Marketer** with 4+ years of experience in Python, AI, and predictive analytics. I specialize in **machine learning, data visualization, and web development**. Currently, I'm working on **financial data analysis for BCG's GenAI Consulting team** and leading projects in **predictive analytics for e-commerce and healthcare**.  
+I'm a **Data Scientist & Web Developer** with 4+ years of experience in Python, AI, and predictive analytics. I specialize in **machine learning, data visualization, and web development**. Currently, I'm working on **financial data analysis for BCG's GenAI Consulting team** and leading projects in **predictive analytics for e-commerce and healthcare**.  
 
 💡 **Key Areas of Expertise:**  
 - 🧠 AI & Machine Learning  
 - 📊 Data Science & Predictive Analytics  
 - 🌍 Web Development (React, Python, Flask, Streamlit)  
-- 💰 Financial Data Analysis  
-- 📈 Performance Marketing (SEO, PPC, Social Media Ads)  
+- 💰 Financial Data Analysis
 
 ---
 
