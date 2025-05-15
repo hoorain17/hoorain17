@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="ChatGPT Image May 15, 2025, 10_41_47 AM.png" alt="Hoorain Mahtab | Agentic AI Engineer" style="width:100%;" />
+</div>
+
+
 # 👋 Hi, I'm Hoorain Mahtab
 
 ## 🧠 Agentic AI Engineer | Data Scientist | Full-Stack Developer
