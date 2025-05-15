@@ -2,7 +2,7 @@
 
 ## 🧠 Agentic AI Engineer | Data Scientist | Full-Stack Developer
 
-I'm an **Agentic AI Engineer** with 4+ years of experience building **autonomous AI agents**, predictive systems, and full-stack applications using Python, machine learning, and modern web frameworks.
+I'm an **Agentic AI Engineer** with years of experience building **autonomous AI agents**, predictive systems, and full-stack applications using Python, machine learning, and modern web frameworks.
 
 🔍 Currently leading **financial data analysis initiatives** at **BCG's GenAI Consulting Team**, and developing **agentic AI systems** for healthcare and e-commerce sectors.
 
